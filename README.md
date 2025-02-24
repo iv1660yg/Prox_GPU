@@ -1,6 +1,6 @@
 # 🎛️ Proxmox Installation with GPU Passthrough for LXC Containers
 
-Setting up Proxmox with GPU passthrough for LXC containers allows you to maximize your home server’s performance. This guide simplifies the process with clear instructions and a stylish touch. 🚀
+Setting up Proxmox with GPU passthrough for LXC containers allows the maximum and best performance. 🚀
 
 ---
 
