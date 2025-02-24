@@ -96,4 +96,4 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/c
 
 ---
 
-🎉 **Success!** Your Proxmox setup now supports GPU passthrough for LXC containers. Enjoy your upgraded home server! 🚀
+🎉 **Success!** Proxmox should now supports GPU passthrough for LXC containers. 🚀
