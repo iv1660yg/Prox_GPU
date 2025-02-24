@@ -75,6 +75,11 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/c
     ```bash
     ./NVIDIA-Linux-x86_64-550.107.02.run --no-kernel-modules
     ```
+5. **Verify the installation inside the container:**
+    ```bash
+    nvidia-smi
+    ```
+    This should display GPU information if passthrough is configured correctly.
 
 ---
 
